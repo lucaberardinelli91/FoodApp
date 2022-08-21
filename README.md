@@ -1,6 +1,6 @@
 <h1>About the app</h1>
 
-Food tracker app in SwiftUI + CoreData
+Food tracker app in <b>SwiftUI</b> + <b>CoreData</b>
 
 <h4><a href="https://user-images.githubusercontent.com/6122888/185783570-99df2d1a-be6a-4012-adb6-56b7ef6ab805.mov" target="_blank">Download video demo</a><br></h4>
 
